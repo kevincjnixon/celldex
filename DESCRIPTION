@@ -15,7 +15,6 @@ License: GPL-3
 Depends: SummarizedExperiment
 Imports: 
     utils,
-    #ExperimentHub,
     AnnotationHub,
     AnnotationDbi,
     S4Vectors,
